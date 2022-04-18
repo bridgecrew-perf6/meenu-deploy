@@ -25,6 +25,13 @@
             "required": true,
             "value": "en"
         },
+        "TAG_REPLY": {
+
+            "description": "mention bgm, change the number",
+            "required": false,
+            "value": "918075641889@s.whatsapp.net"
+
+        },
         "OWNER_NAME": {
             "description": "Fill your name in here. it will show your name in .owner command reply",
             "required": true,
